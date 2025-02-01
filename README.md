@@ -11,4 +11,4 @@ Live Demo:
 Result: Run index.html file
 ## Show some :heart: and :star: the repo if you like the design.
 
-![WeatherApp](https://user-images.githubusercontent.com/42378118/99897986-fd02dc00-2cc3-11eb-9cac-f5b577bfef40.png)
+//![WeatherApp](https://user-images.githubusercontent.com/42378118/99897986-fd02dc00-2cc3-11eb-9cac-f5b577bfef40.png)
